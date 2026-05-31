@@ -2,10 +2,10 @@
 ```
 © Credits
 ──────────────
-Dray Baileys ❤
+Kiyora Baileys ❤
 ```
 
-# <div align='center'>Dray WhatsApp Baileys</div>
+# <div align='center'>Kiyora WhatsApp Baileys</div>
 
 <div align='center'>
 
@@ -43,10 +43,10 @@ Mulailah dengan menginstal library melalui package manager pilihan Anda, lalu ik
 # Links
 
 #### Official
-- [DrayXD Official](https://dray-terate.my.id)
+- [Kiyora Official](https://t.me/Kiyorahost)
 
 #### Info Update
-- [WhatsApp](https://whatsapp.com/channel/0029VbArpFn6LwHrXWJkjE2B)
+- [WhatsApp](https://whatsapp.com/channel/0029VbCSjZv9Bb62lRhDCy1y)
 
 
 ## Dokumentasi SendMessage
@@ -61,7 +61,7 @@ thumbnail: await (await fetch("URL IMG")).buffer(),
 itemCount: 1000,
 status: "INQUIRY",
 surface: "CATALOG",
-message: "dfa kimochi",
+message: "Yora kimochi",
 orderTitle: "kyah",
 sellerJid: "0@s.whatsapp.net",
 token: Buffer.from("777777"),
@@ -83,8 +83,8 @@ name: "review_and_pay",
 buttonParamsJson: JSON.stringify({
 currency: "IDR",
 total_amount: { value: 100, offset: 100 },
-reference_id: "DAFFA-DEV",
-type: "daffa",
+reference_id: "KIYORA-DEV",
+type: "KIYORA",
 payment_status: "ganteng",
 payment_timestamp: Date.now(),
 order: {
@@ -196,7 +196,7 @@ degreesLatitude: 0,
 degreesLongitude: 0,
 name: "rowrrrr"
 },
-joinLink: "https://call.whatsapp.com/video/daffadevv",
+joinLink: "https://call.whatsapp.com/video/Kiyorahost",
 startTime: "1763019000",
 endTime: "1763026200",
 extraGuestsAllowed: false
@@ -233,7 +233,7 @@ await drayyy.sendMessage(m.chat, {
 interactiveMessage: {
 header: "Hello World",
 title: "Hello World",
-footer: "telegram: @daffadevv ",
+footer: "telegram: @Kiyorahost ",
 buttons: [
 {
 name: "cta_copy",
@@ -256,13 +256,13 @@ await drayyy.sendMessage(m.chat, {
 interactiveMessage: {
 header: "Hello World",
 title: "Hello World",
-footer: "telegram: @daffadevv",
+footer: "telegram: @Kiyorahost",
 image: { url: "https://example.com/image.jpg" },
 nativeFlowMessage: {
 messageParamsJson: JSON.stringify({
 limited_time_offer: {
 text: "idk hummmm?",
-url: "https://t.me/daffadevv",
+url: "https://t.me/Kiyorahost",
 copy_code: "ravage",
 expiration_time: Date.now() * 999
 },
@@ -275,7 +275,7 @@ button_title: "ravage native"
 tap_target_configuration: {
 title: " X ",
 description: "bomboclard",
-canonical_url: "https://t.me/daffadevv",
+canonical_url: "https://t.me/Kiyorahost",
 domain: "shop.example.com",
 button_index: 0
 }
@@ -303,7 +303,7 @@ title: "title",
 highlight_label: "label",
 rows: [
 {
-title: "@daffadevv",
+title: "@Kiyorahost",
 description: "love you",
 id: "row_2"
 }
@@ -335,7 +335,7 @@ await drayyy.sendMessage(m.chat, {
 interactiveMessage: {
 header: "Hello World",
 title: "Hello World",
-footer: "telegram: @daffadevv",
+footer: "telegram: @Kiyorahost",
 image: { url: "https://example.com/image.jpg" },
 buttons: [
 {
@@ -388,7 +388,7 @@ await drayyy.sendMessage(m.chat, {
 interactiveMessage: {
 header: "Hello World",
 title: "Hello World",
-footer: "telegram: @daffadevv",
+footer: "telegram: @Kiyorahost",
 document: fs.readFileSync("./package.json"),
 mimetype: "application/pdf",
 fileName: "daffadevv.pdf",
@@ -404,7 +404,7 @@ body: "",
 mediaType: 3,
 thumbnailUrl: "https://example.com/image.jpg",
 mediaUrl: " X ",
-sourceUrl: "https://t.me/daffadevv",
+sourceUrl: "https://t.me/Kiyorahost",
 showAdAttribution: true,
 renderLargerThumbnail: false
 },
@@ -413,8 +413,8 @@ buttons: [
 name: "cta_url",
 buttonParamsJson: JSON.stringify({
 display_text: "Telegram",
-url: "https://t.me/daffadevv",
-merchant_url: "https://t.me/daffadevv"
+url: "https://t.me/Kiyorahost",
+merchant_url: "https://t.me/Kiyorahost"
 })
 }
 ]
@@ -430,7 +430,7 @@ await drayyy.sendMessage(m.chat, {
 interactiveMessage: {
 header: "Hello World",
 title: "Hello World",
-footer: "telegram: @daffadevv",
+footer: "telegram: @Kiyorahost",
 document: fs.readFileSync("./package.json"),
 mimetype: "application/pdf",
 fileName: "daffadevv.pdf",
@@ -440,8 +440,8 @@ buttons: [
 name: "cta_url",
 buttonParamsJson: JSON.stringify({
 display_text: "Telegram",
-url: "https://t.me/daffadevv",
-merchant_url: "https://t.me/daffadevv"
+url: "https://t.me/Kiyorahost",
+merchant_url: "https://t.me/Kiyorahost"
 })
 }
 ]
